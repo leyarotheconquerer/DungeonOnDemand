@@ -1,0 +1,15 @@
+[
+	{
+		"Name": "Test",
+		"EnemyType": [
+			{
+				"Types": [
+					"/Script/Engine.BlueprintGeneratedClass'/Game/Enemies/Character_Enemy.Character_Enemy_C'"
+				]
+			}
+		],
+		"MinCount": 1,
+		"MaxCount": 1,
+		"Radius": 500
+	}
+]
