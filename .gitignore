@@ -42,6 +42,7 @@
 *.VC.opendb
 
 *.blend[0-9]
+*.mmpz.bak
 
 .vsconfig
 *.*~
